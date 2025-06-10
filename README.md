@@ -8,8 +8,6 @@ This project contains manual test scenarios for validating the core functionalit
 ## ✅ Test Scenarios Covered
 
 ### 1. Authentication
--Register with vaild mail
--register with invalid mail
 - Login with valid credentials
 - Login with invalid credentials
 - resending verification code
